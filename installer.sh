@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CHANNEL="stable"
-BRANCH="php7"
+BRANCH="master"
 NAME="PocketMine-MP"
 BUILD_URL=""
 
